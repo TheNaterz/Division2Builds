@@ -134,3 +134,12 @@ for c in all_combos:
 # for c in one_one_one_one_one_ones:
 #     a.write(str(c)+"\n")
 # a.close()
+
+# Add combination finder here.
+
+# As an example, if you're looking for sets that contain exactly 2 pieces of Sokolov Concern and 2 pieces of Douglas & Harding you can use the following:
+# target_combinations = two_two_twos
+# target_combinations.extend(two_two_one_ones)
+# for s in target_combinations:
+#     if [g[0] for g in s].count('sokolov') == 2 and [g[0] for g in s].count('douglas') == 2:
+#         print(s)
