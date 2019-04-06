@@ -1,0 +1,3 @@
+(['gila', 'mask'], ['gila', 'chest'], ['gila', 'holster'], ['gila', 'backpack'], ['gila', 'gloves'], ['gila', 'knees'])
+(['murakami', 'mask'], ['murakami', 'chest'], ['murakami', 'holster'], ['murakami', 'backpack'], ['murakami', 'gloves'], ['murakami', 'knees'])
+(['providence', 'mask'], ['providence', 'chest'], ['providence', 'holster'], ['providence', 'backpack'], ['providence', 'gloves'], ['providence', 'knees'])
